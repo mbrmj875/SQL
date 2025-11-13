@@ -1,0 +1,10 @@
+.DS_Store
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
+Screenshot*
+$RECYCLE.BIN/
+.*/
+~$*
+*.docx~
